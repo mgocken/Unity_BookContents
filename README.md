@@ -1,7 +1,5 @@
 # This is my version of the README
 
-# this is mine yooo...
-
 ---
 
 Make sure to personalize your welcome message with something unique!
